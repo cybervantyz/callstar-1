@@ -3,3 +3,10 @@
 -distributed applications
 -данные о работе RabbitMQ. Server, client
 -Symfony2 NotificationBundle by Sonata Porject - http://sonata-project.org/blog/2012/4/18/please-welcome-to-the-notificationbundle
+
+Губарев Александр - доклад о memcached
+=====================================
+- назначение
+- Общая схема кэширования
+- Архитектура memcached
+http://www.opennet.ru/base/dev/memcached_tips.txt.html
